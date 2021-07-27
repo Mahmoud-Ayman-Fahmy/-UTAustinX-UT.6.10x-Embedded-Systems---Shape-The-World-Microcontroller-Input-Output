@@ -5,14 +5,13 @@ This codes implemented by me to solve labs of this course and get full grade wit
 # Certificate :-
 Part1 --> https://courses.edx.org/certificates/ffe3959c4e2642d090441e5e462ac7ba
 # Requirements :- 
-IDE : Kiel uVsion 4 your simulate and hardware grader and test on this IDE
-site --> https://www.keil.com/demo/eval/armv4.htm
-Electronic Component
-\n1 - breadboard
-2 - many of swithces (5-7)
-3 - many of led with different color (3 - 6)
-4 - many of different resisitors (eg. 10K , 1K , 470ohm )
-5 - lcd display (option)
-6 - headphonejack and audio jack
-7 - slide pot
-8 - many of jumber (male-male , male-female )
+IDE : Kiel uVsion 4 .                                                                                                                                                                <br />Your simulate and hardware grader and test on this IDE site --> https://www.keil.com/demo/eval/armv4.htm
+<br />Electronic Component
+<br />1 - breadboard
+<br />2 - many of swithces (5-7)
+<br />3 - many of led with different color (3 - 6)
+<br />4 - many of different resisitors (eg. 10K , 1K , 470ohm )
+<br />5 - lcd display (option)
+<br />6 - headphonejack and audio jack
+<br />7 - slide pot
+<br />8 - many of jumber (male-male , male-female )
