@@ -8,7 +8,7 @@ Part1 --> https://courses.edx.org/certificates/ffe3959c4e2642d090441e5e462ac7ba
 IDE : Kiel uVsion 4 your simulate and hardware grader and test on this IDE
 site --> https://www.keil.com/demo/eval/armv4.htm
 Electronic Component
-1 - breadboard
+\n1 - breadboard
 2 - many of swithces (5-7)
 3 - many of led with different color (3 - 6)
 4 - many of different resisitors (eg. 10K , 1K , 470ohm )
